@@ -1,0 +1,9 @@
+4) Descobrir interruptores e lâmpadas:
+
+1.Ligue o primeiro interruptor e espere alguns minutos.
+2.Desligue o primeiro interruptor e ligue o segundo.
+3.Entre na sala.
+
+Se a lâmpada estiver acesa, o primeiro interruptor controla aquela lâmpada.
+Se a lâmpada estiver apagada e ainda estiver quente, o segundo interruptor controla aquela lâmpada.
+Se a lâmpada estiver apagada e fria, o terceiro interruptor controla aquela lâmpada.
